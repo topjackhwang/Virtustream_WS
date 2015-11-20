@@ -1,2 +1,2 @@
 #!/bin/sh
-./fibonacci.py > ./logs/system.log 2>&1 &
+./fibonacci.py > ./system.log 2>&1 &
